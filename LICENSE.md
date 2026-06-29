@@ -1,4 +1,4 @@
-# 
+# Ligero AI Resume Builder flujo de trabajo. Con IA explicable y IA en el borde — optimizado para el máximo rendimiento.
 
 
 
